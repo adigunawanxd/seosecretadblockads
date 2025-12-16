@@ -1,5 +1,10 @@
+## Script Anti Adblock Terbaik untuk Deteksi Semua Adblocker (ID)
+## Best Anti Adblock Script to Detect All Adblockers (EN)
+👇
+<details>
+<summary>(ID) Versi Indonesia</summary>
 # AdBlock Guide for CMS/Website Frameworks and Blogs
-## 🇮🇩 Versi Indonesia
+
 ### Adblock untuk CMS/Framework Website dan Blog
 AdBlock adalah ekstensi browser yang berfungsi mencegah iklan untuk muncul. Tujuan pemasangan AdBlock biasanya agar pengunjung bisa membaca artikel dengan nyaman tanpa perlu melihat iklan yang berseliweran. Bagi publisher AdSense dan pemilik blog, hal ini bisa menjadi masalah karena salah satu penghasilan utama sebagai bloger adalah dari iklan. Jika iklan tidak tampil, maka tidak ada penghasilan yang masuk. Karenanya perlu dilakukan satu cara untuk mencegar AdBlock menghalangi munculnya iklan. Pada repository ini akan dijelaskan cara memasang script anti AdBlock di blog. Nantinya akan tampil notifikasi kepada pengunjung untuk mematikan ekstensi AdBlock.
 
@@ -21,10 +26,12 @@ AdBlock adalah ekstensi browser yang berfungsi mencegah iklan untuk muncul. Tuju
 3. Selesai
 
 Jangan khawatir karena pemanggilan Javascript eksternal. Script javascript ini terhosting di GitHub dan pastinya aman dan cepat hanya untuk sekedar antiadblock.
+</details>
 
-
+<details>
+<summary>(EN) English Version</summary>
 # AdBlock Guide for CMS/Website Frameworks and Blogs
-## EN Versi English
+
 ### AdBlock for CMS/Website Frameworks and Blogs
 
 AdBlock is a browser extension that prevents ads from appearing. The main purpose of installing AdBlock is usually to allow visitors to read articles comfortably without being interrupted by ads. For AdSense publishers and blog owners, this can be a problem because one of the main sources of income for bloggers comes from advertisements. If ads do not display, no revenue is generated. Therefore, it is necessary to implement a method to prevent AdBlock from blocking ads. This repository explains how to install an anti-AdBlock script on your blog. A notification will appear for visitors, asking them to disable the AdBlock extension.
@@ -47,3 +54,4 @@ AdBlock is a browser extension that prevents ads from appearing. The main purpos
 3. Done
 
 Do not worry about loading external JavaScript. This JavaScript script is hosted on GitHub and is safe and fast, intended solely for anti-AdBlock purposes.
+</details>
