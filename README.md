@@ -21,7 +21,7 @@ AdBlock adalah ekstensi browser yang berfungsi mencegah iklan untuk muncul. Tuju
 2. Contoh:
    ```html
    <!--Adblock JS-->
-   <script src="https://cdn.jsdelivr.net/gh/adigunawanxd/seosecretadblockads@refs/heads/master/seosecretadblockads.js" async></script>
+   <script src="https://cdn.jsdelivr.net/gh/adigunawanxd/seosecretadblockads@refs/heads/master/adblockads.js" async></script>
    </body>
 3. Selesai
 
@@ -49,7 +49,7 @@ AdBlock is a browser extension that prevents ads from appearing. The main purpos
 2. Example:
    ```html
    <!--Adblock JS-->
-   <script src="https://cdn.jsdelivr.net/gh/adigunawanxd/seosecretadblockads@refs/heads/master/seosecretadblockads.js" async></script>
+   <script src="https://cdn.jsdelivr.net/gh/adigunawanxd/seosecretadblockads@refs/heads/master/adblockads.js" async></script>
    </body>
 3. Done
 
