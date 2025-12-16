@@ -55,3 +55,19 @@ AdBlock is a browser extension that prevents ads from appearing. The main purpos
 
 Do not worry about loading external JavaScript. This JavaScript script is hosted on GitHub and is safe and fast, intended solely for anti-AdBlock purposes.
 </details>
+
+<details>
+<summary>Preview Adblock Popup (ID)</summary>
+   <img src="https://raw.githubusercontent.com/adigunawanxd/seosecretadblockads/refs/heads/master/demo/demo-ID-1.PNG"></img>
+   <img src="https://raw.githubusercontent.com/adigunawanxd/seosecretadblockads/refs/heads/master/demo/demo-ID-2.PNG"></img>
+   <img src="https://raw.githubusercontent.com/adigunawanxd/seosecretadblockads/refs/heads/master/demo/demo-ID-3.PNG"></img>
+   <img src="https://raw.githubusercontent.com/adigunawanxd/seosecretadblockads/refs/heads/master/demo/demo-ID-4.PNG"></img>
+</details>
+
+<details>
+<summary>Preview Adblock Popup (EN)</summary>
+   <img src="https://raw.githubusercontent.com/adigunawanxd/seosecretadblockads/refs/heads/master/demo/demo-EN-1.PNG"></img>
+   <img src="https://raw.githubusercontent.com/adigunawanxd/seosecretadblockads/refs/heads/master/demo/demo-EN-2.PNG"></img>
+   <img src="https://raw.githubusercontent.com/adigunawanxd/seosecretadblockads/refs/heads/master/demo/demo-EN-3.PNG"></img>
+   <img src="https://raw.githubusercontent.com/adigunawanxd/seosecretadblockads/refs/heads/master/demo/demo-EN-4.PNG"></img>
+</details>
